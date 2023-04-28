@@ -27,3 +27,5 @@ cat /var/lib/jenkins/secrets/initialAdminPassword
 
 #34.232.26.121
 
+#If GPG Error occured
+#sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 5BA31D57EF5975CA
